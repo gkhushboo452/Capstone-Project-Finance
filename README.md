@@ -34,4 +34,4 @@ It combines the power of **SQL**, **Python**, **Power BI**, and **Excel** to per
 
 ---
 
-## 📂 Project Structure
+
